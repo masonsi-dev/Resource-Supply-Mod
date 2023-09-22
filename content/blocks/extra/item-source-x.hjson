@@ -11,7 +11,7 @@ solid: true
 group: transportation
 configurable: true
 
-requirements: [ copper/1 ]
+requirements: [ beryllium/1 ]
 buildCostMultiplier: 0.1
 
 category: effect

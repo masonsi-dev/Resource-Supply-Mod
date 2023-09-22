@@ -8,7 +8,7 @@ maxNodes: 900
 outputsPower: true
 consumesPower: false
 
-requirements: [ copper/1 ]
+requirements: [ beryllium/1 ]
 buildCostMultiplier: 0.1
 
 category: power
