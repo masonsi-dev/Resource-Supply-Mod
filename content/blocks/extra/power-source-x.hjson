@@ -2,7 +2,7 @@ type: PowerSource
 name: Power Source
 description: Power Source
 
-health: 99000
+health: 100
 size: 1
 maxNodes: 900
 outputsPower: true

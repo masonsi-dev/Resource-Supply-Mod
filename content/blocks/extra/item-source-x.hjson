@@ -2,7 +2,7 @@ type: ItemSource
 name: Item Source
 description: Item Source
 
-health: 99000
+health: 100
 size: 1
 hasItems: true
 update: true

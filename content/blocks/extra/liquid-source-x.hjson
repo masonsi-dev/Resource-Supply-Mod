@@ -2,7 +2,7 @@ type: LiquidSource
 name: Liquid Source
 description: Liquid Source
 
-health: 99000
+health: 100
 size: 1
 hasLiquids: true
 liquidCapacity: 100
